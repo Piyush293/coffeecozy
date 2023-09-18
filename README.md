@@ -42,7 +42,7 @@ Full-Stack E-commerce website with Admin Dashboard
 - Admin: List Review of Product 
 - Stock Management: Decrease stock of product when shipped
 
-(https://res.cloudinary.com/dzeajrxpo/image/upload/v1695066299/main_seamw9.png)
+ ![CMain Page](https://res.cloudinary.com/dzeajrxpo/image/upload/v1695066299/main_seamw9.png)
 
 <table>
   <tr>
